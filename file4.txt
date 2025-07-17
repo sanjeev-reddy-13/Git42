@@ -1,1 +1,1 @@
-hello from mastergit checkout master!
+hello from both branchescat file4.txt
